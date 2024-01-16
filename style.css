@@ -1,0 +1,80 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+font-weight: 300;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;   
+}
+form h3{
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600; 
+    font-size: 1.2rem;
+}
+
+/*Colores dentro de la web*/
+.bg-1{
+    background: #212529;
+}
+.bg-2{
+    background: #707070;
+}
+.bg-3{
+    background: #F8F9FA;
+}
+.bg-4{
+    background: #ffffff;
+}
+.bg-5{
+    background: #28a745 !important;
+}
+.co-white{
+    color:#ffffff !important;
+}
+.co-gris{
+    color: #707070;
+}
+/*Declarar el point size*/
+p {
+font-size: 16px; /* 1em = 16px */
+  }
+
+/*Código Bootstrap*/
+
+.bg-body-tertiary{
+    background: #28a745 !important; 
+    color:#ffffff !important;
+}
+.nav-link{
+    color:#ffffff !important;
+}
+button.btn.btn-primary {
+    background: #DDDDDD;
+    color: #212529;
+    border: 1px solid #DDDDDD;
+    padding: 5px 30px;
+    font-family: 'Roboto', sans-serif;
+}
+/* fin Código Bootstrap*/
+.precios p{
+    font-weight: 200;
+    font-size: 1.5em;
+}
+.precio{
+    color:#28A745;
+    font-weight: 400 !important;
+    font-size: 2em !important;
+}
+.logo{
+    width: 86px;
+    height: auto;
+}
+.navbar-toggler {
+    color: #ffffff !important;
+    border: var(--bs-border-width) solid rgb(255 255 255 / 15%)!important;
+}
+i.fa-solid.fa-bars {
+    opacity: 0.5;
+}
